@@ -446,7 +446,7 @@ wheels = [
 ]
 
 [[package]]
-name = "uv"
+name = "uv-test"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
