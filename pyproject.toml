@@ -1,0 +1,7 @@
+[project]
+name = "uv-test"
+version = "0.1.0"
+description = "uv test"
+readme = "readme.md"
+requires-python = ">=3.12"
+dependencies = []
